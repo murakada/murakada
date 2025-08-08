@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Kumar Murakada</h1>
-<h3 align="center">Senior Software Engineer | Frontend Developer</h3>
+<h3 align="center">Tech Lead </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murakada&label=Profile%20views&color=0e75b6&style=flat" alt="murakada-git" /> </p>
 
